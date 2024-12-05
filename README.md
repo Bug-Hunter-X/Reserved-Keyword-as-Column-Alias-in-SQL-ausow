@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error: using a reserved keyword as an alias for a column.  The `bug.sql` file contains the erroneous query, while `bugSolution.sql` provides the corrected version.  This issue typically leads to syntax errors during query execution. The solution involves using alternative, non-reserved names for aliases.
